@@ -1,5 +1,7 @@
 
-**ORACLES**
+# **ORACLES**
+
+> ⚠️ Educational demo explaining oracle mechanics. Not intended for production use.
 
 Blockchains are isolated, deterministic environments by design. A smart contract on Ethereum or Solana cannot fetch an API, check weather data, or know the price of the US Dollar on its own. Oracles solve this by bridging the gap between off-chain information and on-chain code.
 
